@@ -1,2 +1,3 @@
-# Blur-Navigation-Menu-
-Blur Navigation Menu 
+# Blur Navigation Menu
+
+![SreenShot](screenshot.gif)
