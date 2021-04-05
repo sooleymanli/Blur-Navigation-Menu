@@ -1,3 +1,2 @@
 # Blur Navigation Menu
-
-![SreenShot](screenshot.gif)
+<img src=”sreenshot.gif" align=”center” >
