@@ -2,6 +2,8 @@
 1. [Demo](https://fuadsuleymanli.xyz/Demos/blurnavigationmenu) 
 2. [Demo (Codepen)](https://codepen.io/fuads062/pen/NWdgbWR)
 
-![SreenShot](screenshot.gif)
+###
+
+![ScreenShot](screenshot.gif)
 
 
