@@ -1,6 +1,7 @@
 # Blur Navigation Menu
-1. [Demo](https://fuadsuleymanli.com/Demos/blurnavigationmenu) 
+1. [Demo (Fuadsuleymanli.com)](https://fuadsuleymanli.com/Demos/blurnavigationmenu) 
 2. [Demo (Codepen)](https://codepen.io/fuads062/pen/NWdgbWR)
+3. [Demo (Github.io)](https://sooleymanli.github.io/Blur-Navigation-Menu/)
 
 ###
 
